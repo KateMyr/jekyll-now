@@ -4,9 +4,9 @@ title: 'How to start'
 date: 2017-05-02
 ---
 
-So to find the theory is not a problem.
+So.. find the theory is not a problem.
 
-But where to get the practice?
+But where to get practice?
 
 I started from the courses of ["Successful testers"](http://software-testing.ru/edu/1-schedule/56-school) with Natalia Rukol.
 I know somebody will tell that the courses it is just vast of money and that being self-motivated and organized it is possible to progress without courses.
